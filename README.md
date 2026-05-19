@@ -53,27 +53,7 @@ AI-Traffic-System/
 
 ---
 
-## Installation
 
-### Clone Repository
-
-```bash
-git clone YOUR_GITHUB_LINK
-```
-
-### Open Project Folder
-
-```bash
-cd AI-Traffic-System
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Run Simulation
 
@@ -119,18 +99,6 @@ Traffic density levels:
 - Google Maps integration
 - CCTV traffic monitoring
 - Smart city IoT integration
-
----
-
-## Screenshots
-
-Add screenshots here later.
-
-Example:
-
-```bash
-screenshots/traffic_simulation.png
-```
 
 ---
 
