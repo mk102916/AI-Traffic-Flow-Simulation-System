@@ -109,11 +109,3 @@ Mihita Karwale
 B.Tech Information Technology & Data Science
 
 ---
-
-## License
-
-This project is for educational and research purposes.
-=======
-# AI-Traffic-Flow-Simulation-System
-AI-based smart traffic flow simulation system using Python, Pygame, Streamlit, and Machine Learning for congestion analysis and adaptive traffic signal optimization.
->>>>>>> b09610ab0abe4cb7a26dd035d0fa948e2a0e1925
