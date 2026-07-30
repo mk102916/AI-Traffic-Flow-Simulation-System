@@ -38,47 +38,6 @@ The system dynamically adjusts traffic signals based on vehicle density to reduc
 
 ---
 
-## Project Structure
-
-```bash
-AI-Traffic-System/
-│
-├── main.py
-├── dashboard.py
-├── traffic_ai.py
-├── requirements.txt
-├── traffic_data.csv
-└── README.md
-```
-
----
-
-
-
-## Run Simulation
-
-```bash
-python main.py
-```
-
----
-
-## Run Dashboard
-
-```bash
-streamlit run dashboard.py
-```
-
----
-
-## Run AI Prediction
-
-```bash
-python traffic_ai.py
-```
-
----
-
 ## AI Functionality
 
 The AI system analyzes traffic density data and dynamically changes traffic signal timings based on congestion levels.
