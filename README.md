@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Traffic Flow Simulation System
 
 ## Overview
